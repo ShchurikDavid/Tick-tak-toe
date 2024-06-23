@@ -1,1 +1,1 @@
-# Tick-tak-toe
+# Tick-tak-toe-bot
